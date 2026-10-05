@@ -1,8 +1,8 @@
-# Health API System 🏥
+# Health API System 
 
 A RESTful API developed for a Health System using **Java** and **JAX-RS**.
 
-## 🚀 Features
+## Features
 
 - RESTful API implementation
 - CRUD operations
@@ -10,10 +10,6 @@ A RESTful API developed for a Health System using **Java** and **JAX-RS**.
 - JSON-based data exchange
 - API testing using Postman
 
-## 🔗 API Testing
+## API Testing
 
 The API endpoints were thoroughly tested using **Postman** to ensure correct request and response handling.
-
-## 👩‍💻 Author
-
-**Dinushi Wanniarachchi**
